@@ -1,6 +1,4 @@
-Category: All categories
-
-Day,unemployment: (United States),stimulus check: (United States),zoom: (United States),bread recipe: (United States),animal crossing: (United States)
+Day,unemployment,stimulus check,zoom,bread recipe,animal crossing
 2020-01-01,1,0,1,1,<1
 2020-01-02,2,0,1,1,<1
 2020-01-03,2,0,1,1,<1
